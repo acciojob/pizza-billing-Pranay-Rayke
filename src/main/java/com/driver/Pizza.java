@@ -15,6 +15,7 @@ public class Pizza {
 
 
 
+    //check condition and set price
     public Pizza(Boolean isVeg){
         this.isVeg = isVeg;
         // your code goes here
